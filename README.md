@@ -3,6 +3,7 @@
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis by SQL
+
 **Database**: `p1_retail_db`
 
 In this project I have typically used my SQL skills and Techniques to explore, clean, and analyze retail sales data. The project involves setting up a retail sales database, performing exploratory data analysis (EDA), and answering specific business questions through SQL queries. This is my first project and my journey initiation to build a solid foundation in SQL.
